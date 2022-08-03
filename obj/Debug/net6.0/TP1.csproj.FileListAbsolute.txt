@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\JUANSIN1\bin\Debug\net6.0\TP1.exe
+C:\Users\Usuario\source\repos\JUANSIN1\bin\Debug\net6.0\TP1.deps.json
+C:\Users\Usuario\source\repos\JUANSIN1\bin\Debug\net6.0\TP1.runtimeconfig.json
+C:\Users\Usuario\source\repos\JUANSIN1\bin\Debug\net6.0\TP1.dll
+C:\Users\Usuario\source\repos\JUANSIN1\bin\Debug\net6.0\TP1.pdb
+C:\Users\Usuario\source\repos\JUANSIN1\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\TP1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\TP1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\TP1.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\TP1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\TP1.csproj.CopyComplete
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\TP1.dll
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\refint\TP1.dll
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\TP1.pdb
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\TP1.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\JUANSIN1\obj\Debug\net6.0\ref\TP1.dll
