@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\CirculoSangre\bin\Debug\net6.0\CirculoSangre.exe
+C:\Users\Usuario\source\repos\CirculoSangre\bin\Debug\net6.0\CirculoSangre.deps.json
+C:\Users\Usuario\source\repos\CirculoSangre\bin\Debug\net6.0\CirculoSangre.runtimeconfig.json
+C:\Users\Usuario\source\repos\CirculoSangre\bin\Debug\net6.0\CirculoSangre.dll
+C:\Users\Usuario\source\repos\CirculoSangre\bin\Debug\net6.0\CirculoSangre.pdb
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.dll
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\refint\CirculoSangre.dll
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.pdb
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\ref\CirculoSangre.dll
