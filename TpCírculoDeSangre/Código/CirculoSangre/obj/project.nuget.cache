@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vn2TqDgNU77yCL+/4WV/Ctw1CQSfSaYoL3b7eaC7bIEWvHV3RLfqyjjpg9pseBvww6QrZEkIo0ArSRN9zyQXnw==",
+  "dgSpecHash": "hFR8VZ4ED9aK0a1G/AHYEO1HvgQhDbTh+/2zj/F2mfZa1r63KYrl8MYj7WYwfGXIhsVmhUHeygKcQksQc1DhBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\CirculoSangre\\CirculoSangre.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512"
+  ],
   "logs": []
 }

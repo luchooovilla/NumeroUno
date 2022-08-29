@@ -18,6 +18,9 @@ namespace CirculoSangre
             {
                 Console.WriteLine("Socio Registado");
             }
+            // falta agregar el else
         }
+
+       
     }
 }

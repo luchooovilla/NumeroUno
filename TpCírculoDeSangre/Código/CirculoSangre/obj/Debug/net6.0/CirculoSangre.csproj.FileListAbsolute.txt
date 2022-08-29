@@ -13,3 +13,5 @@ C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\refint\CirculoSangr
 C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.pdb
 C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\ref\CirculoSangre.dll
+C:\Users\Usuario\source\repos\CirculoSangre\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Usuario\source\repos\CirculoSangre\obj\Debug\net6.0\CirculoSangre.csproj.CopyComplete

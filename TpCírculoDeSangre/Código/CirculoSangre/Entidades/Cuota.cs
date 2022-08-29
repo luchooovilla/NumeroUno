@@ -10,7 +10,7 @@ namespace CirculoSangre
     {
         public decimal importe;
         public string formaPago;
-        public DateOnly FechaVencimiento = new DateOnly();
+        public DateTime FechaVencimiento = new DateTime();
         public string estado;
 
         public void MostrarImporte()
