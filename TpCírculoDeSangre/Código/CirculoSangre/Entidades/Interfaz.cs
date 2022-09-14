@@ -8,7 +8,15 @@ namespace CirculoSangre
 {
     internal class Interfaz
     {
-        List<Asociado> lista = new List<Asociado>();
+        private List<Asociado> lista = new List<Asociado>();
+
+        public List<Asociado> Lista
+        {
+            get => lista; set
+            {
+                lista = value;
+            }
+        }
         public void SolicitarRegistro(Asociado asociado)
         {
             Console.WriteLine("Ingrese el dni: ");
@@ -27,7 +35,7 @@ namespace CirculoSangre
             asociado.telefono = Console.ReadLine();
             Console.WriteLine("Ingrese su email: ");
             asociado.email = Console.ReadLine();
-            Console.WriteLine("Ingrese su grupo sanguineo: ");
+            Console.WriteLine("Ingrese su grupo sanguineo: (A/B/AB/0) ");
             asociado.GrupoSanguineo = Console.ReadLine();
             Console.WriteLine("Posee enfermedad cronica?: Teclee si/no");
             asociado.enfermedadCronica = Console.ReadLine();
@@ -38,9 +46,28 @@ namespace CirculoSangre
 
             cargarDatos(asociado);
         }
+        public void sociosCargados(Asociado asociado)
+        {
+            Lista.Add(new Asociado()
+            {
+                dni = "42638860",
+                nombre = "Luciano",
+                apellido = "Villa",
+                GrupoSanguineo = "A",
+                FechaNacimiento = new DateTime(1959, 03, 22),
+                domicilio = "Cabrera 2533",
+                localidad = "San francisco",
+                telefono = "3564579569",
+                email = "lucianovillaoo@gmail.com",
+                enfermedadCronica = null,
+                medicacionPermanente = null,
+                nombreMedicacion = "---"
+            });
+
+        }
         public void cargarDatos(Asociado asociado)
         {
-            lista.Add(new Asociado()
+            Lista.Add(new Asociado()
             {
                 dni = asociado.dni,
                 nombre = asociado.nombre,

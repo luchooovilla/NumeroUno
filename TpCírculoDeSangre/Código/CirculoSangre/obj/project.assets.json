@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\CirculoSangre\\CirculoSangre.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\NumeroUno\\TpCírculoDeSangre\\Código\\CirculoSangre\\CirculoSangre.csproj",
       "projectName": "CirculoSangre",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\CirculoSangre\\CirculoSangre.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\NumeroUno\\TpCírculoDeSangre\\Código\\CirculoSangre\\CirculoSangre.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\CirculoSangre\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\NumeroUno\\TpCírculoDeSangre\\Código\\CirculoSangre\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

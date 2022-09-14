@@ -13,14 +13,15 @@ namespace CirculoSangre
             asociado.DeterminarCategoria();
             Console.Clear();
             cuota.MostrarImporte();
-            Console.WriteLine("Acepta condiciones, métodos e importes de pago? si/no");
-            if (Console.ReadLine() == "si")
+            Console.WriteLine("Acepta condiciones, métodos e importes de pago? si acepta marque-> s, si NO acepta teclee cualquier otra letra");
+            if (Console.ReadLine() == "s")
             {
                 Console.WriteLine("Socio Registado");
             }
-            // falta agregar el else
+            else
+            {
+                Environment.Exit(0);
+            }
         }
-
-       
     }
 }
