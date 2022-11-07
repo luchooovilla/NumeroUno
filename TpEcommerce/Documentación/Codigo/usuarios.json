@@ -1,0 +1,33 @@
+[
+  {
+    "aceptaNovedades": true,
+    "apellido": "Oggero",
+    "email": "micaoggero17@gmail.com",
+    "id": 0,
+    "nombre": "Micaela"
+  },
+
+  {
+    "aceptaNovedades": false,
+    "apellido": "Tessio",
+    "email": "trinitessio101@gmail.com",
+    "id": 1,
+    "nombre": "Trinidad"
+  },
+
+  {
+    "aceptaNovedades": false,
+    "apellido": "Villa",
+    "email": "lucianoVilla@gmail.com",
+    "id": 2,
+    "nombre": "Luciano"
+  },
+
+  {
+    "aceptaNovedades": false,
+    "apellido": "Wasinger",
+    "email": "maxi_sanfco@hotmail.com",
+    "id": 3,
+    "nombre": "Maximiliano"
+  }
+]

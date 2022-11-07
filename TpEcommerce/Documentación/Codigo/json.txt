@@ -1,0 +1,7 @@
+{
+  "id": 0,
+  "email": "micaoggero17@gmail.com",
+  "aceptaNovedades": true,
+  "nombre": "Micaela",
+  "apellido": "Oggero"
+}

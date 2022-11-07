@@ -1,0 +1,17 @@
+[
+  {
+    "descripcion": "Promocion 2x1",
+    "fechaFinal": [ 2022, 10, 10 ],
+    "fechaInicio": [ 2022, 11, 4 ],
+    "id": 0,
+    "titulo": "promo"
+  },
+
+  {
+    "descripcion": "Descuento en ropa de hombre",
+    "fechaFinal": [ 2022, 10, 10 ],
+    "fechaInicio": [ 2022, 11, 3 ],
+    "id": 1,
+    "titulo": "descuento"
+  }
+]
