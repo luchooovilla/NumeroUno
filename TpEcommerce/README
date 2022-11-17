@@ -1,1 +1,6 @@
+Breve Introducción a Trabajo Practico Final Diseño de Sistemas
 
+Primero que nada, hay que decir que nosotros antes de realizar el testeo en sí, las pruebas de aceptación como tal, estuvimos pensando, planificando previamente en documentar primero la prueba, y después ejecutarla.
+En esa documentación, nos pusimos a definir los datos de entrada que ingresaríamos, por ejemplo, para el alta de un producto de catálogo, podría ser una marca o un color de prenda. Con ayuda del DTO que nos proporcionaron las chicas de Catalogo, pudimos empezar a conocer las variables que aparecían y el tipo de dato para entender el contexto en el que luego desarrollaríamos el testing. La idea era probar valores extremos, como números negativos o números extremadamente grandes. Siempre con la intención que se vean reflejados los errores del código, que reviente, que salte errores. Uno piensa de antemano qué pruebas y qué valores se van a ingresar.
+Ese tipo de definición, de qué es lo que vamos a probar y qué datos concretos se ingresarán, deberían ser REPRODUCIBLES, por eso mismo es que documentamos los datos ingresados. Para que luego, Catalogo pueda tener los datos concretos del error y traten de solucionarlo en una futura iteración. 
+Dentro de las incidencias, de los errores, están los de funcionalidad, o un bug, o de un nuevo requerimiento, alguna mejora o cambio.  
