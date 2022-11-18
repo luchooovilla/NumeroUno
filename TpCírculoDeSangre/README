@@ -1,1 +1,10 @@
-probandpppp
+Breve descripción:
+Contexto del problema a resolver: En nuestro problema tenemos dos distintos tipos de personas. 
+Una es la persona que va a donar sangre, y la otra es quien va a solicitar sangre. El circulo es el intermediario entre esas dos personas. 
+La 2da iteración se compone de:
+Requerimiento que representa el pedido de donadores por parte del Bco de Sangre. 
+Requerimiento que representa la determinación de donadores y asignación de turnos.
+Implementar en segunda iteración: Fijar fecha y turno de donación.
+Un requerimiento, la mayoría de las veces, requiere de más de un caso de uso. 
+El sistema debe fijar turnos y fechas de donación. A este requerimiento lo solicita el Banco de Sangre (actor, quien inicia ese caso de uso). 
+El éxito de este caso de uso es PACTAR EL TURNO de donación con la persona. 
