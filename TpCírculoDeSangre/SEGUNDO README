@@ -33,3 +33,6 @@ en cuestiones de lógica o de validaciones que ya las tengo pensadas acá.
 Ir despiezando cómo interactúan las clases, eso es un diagrama de Secuencia. 
 Con el diagrama de clases obtengo la parte estática de los datos, y con el diagrama de secuencia
 sé como interactúan esos datos.
+Por último, también utilicé User Story Mapping, las historias de usuario.
+Esto sirve para facilitar el entendimiento y descubrimiento de los objetos partipantes, y la priorización del trabajo de construcción.
+Se conseguie poniendo las actividades y tareas del Usuario en un mapa que sirve para mantenerlas en contexto.
