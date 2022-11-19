@@ -1,1 +1,35 @@
-
+Herramientas UML utilizadas para poder desarrollar lo más eficazmente posible la solución al problema:
+Basicamente siempre aparecen estos procesos: 
+REQUERIMIENTO - CASO DE USO - USER STORY.
+Hacemos requerimientos para delimitar un poco al problema. Una forma de validar
+requerimientos es usando prototipos. A medida que vayamos agregando requerimientos,
+tenemos que ir definiendo también lo que va a ser necesario para que ese requerimiento
+esté cumplido, o sea, qué es lo que tiene que cumplirse para que ese requerimiento
+esté aceptado, eso nos va a dar más claridad, estaríamos haciendo un pequeño gran 
+testing al principio y delimitando bien lo que tenemos que hacer.
+Hablando de Testing, hay que decir que esta parte tiene que estar en el medio, de 
+principio a fin. Al testing no lo podemos poner al final, porque en el final basicamente}
+estaríamos por querer arreglar algo que está mal desde un principio.
+Siguiendo con las herramientas, del REQUERIMIENTO pasamos a los CASOS DE USO mediante
+la definición de Proceso. El proceso que va a hacer que ese requerimiento se cumpla.
+De un proceso hacemos los casos de uso.
+Cuando uno llega a una parte funcional que se puede automatizar, tenemos un caso de uso.
+Eso nos acerca a la implementación del código. 
+A la hora de tener que explicar un caso de uso, hacemos la DESCRIPCION DEL CASO DE USO
+correspondiente. Usamos descripción de trazo fino, o sea, pensando todo detalladamente
+y especificando cada paso. En las descripciones de caso de uso, nos concentramos en lo
+que esperamos que suceda, se piensa en el éxito, en lo que se espera que haga el caso de uso.
+La descripción de casos de uso es la base para poder hacer el diagrama de colaboración.
+En el diagrama de colaboración describimos, hacemos una realización de casos de uso,
+ya que explicamos qué es lo que sucede dentro del caso de uso, en términos de 
+mensajes que se envían los objetos que participan. Esos objetos son los objetos de 
+nuestro dominio, salen del diagrama de clases. Acá identificamos qué participantes
+intervienen en el diagrama de clases que hicimos, y, a través del intercambio de 
+mensajes del actor con la interfaz de usuario, de la interfaz de usuario al gestor, 
+y el gestor es el que coordina toda la funcionalidad que debiera tener el sistema. 
+Ahora ya me estoy acercando a la programación, ya que el DIAGRAMA DE SECUENCIA es quien
+me lo permite hacer. Este diagrama me va guiando y ya no voy a tener que estar pensando
+en cuestiones de lógica o de validaciones que ya las tengo pensadas acá.
+Ir despiezando cómo interactúan las clases, eso es un diagrama de Secuencia. 
+Con el diagrama de clases obtengo la parte estática de los datos, y con el diagrama de secuencia
+sé como interactúan esos datos.
