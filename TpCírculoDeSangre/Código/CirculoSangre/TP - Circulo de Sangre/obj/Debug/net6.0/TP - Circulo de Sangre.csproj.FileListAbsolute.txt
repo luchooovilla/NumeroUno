@@ -1,0 +1,30 @@
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.exe
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.deps.json
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.runtimeconfig.json
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.dll
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.pdb
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.dll
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\refint\TP - Circulo de Sangre.dll
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.pdb
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP - Circulo de Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\ref\TP - Circulo de Sangre.dll
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.exe
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.deps.json
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.runtimeconfig.json
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.dll
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\bin\Debug\net6.0\TP - Circulo de Sangre.pdb
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.dll
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\refint\TP - Circulo de Sangre.dll
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.pdb
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\TP - Circulo de Sangre.genruntimeconfig.cache
+C:\Users\lucia\OneDrive\Escritorio\Nuevo_Circulo_Sangre\TP - Circulo de Sangre\obj\Debug\net6.0\ref\TP - Circulo de Sangre.dll
