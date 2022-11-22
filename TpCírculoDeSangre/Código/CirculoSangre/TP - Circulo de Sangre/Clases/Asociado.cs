@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TP___Circulo_de_Sangre.Clases
+namespace TP___Circulo_de_Sangre
 {
     public class Asociado
     {
@@ -26,61 +26,157 @@ namespace TP___Circulo_de_Sangre.Clases
 
 
 
-        public int Dni { get => dni; set => dni = value; }
-        public string Nombre { get => nombre; set => nombre = value; }
-        public string Apellido { get => apellido; set => apellido = value; }
-        public DateTime FechaNacimiento { get => fechaNacimiento; set => fechaNacimiento = value; }
-        public string Domicilio { get => domicilio; set => domicilio = value; }
-        public string Localidad { get => localidad; set => localidad = value; }
-        public int Telefono { get => telefono; set => telefono = value; }
-        public string Email { get => email; set => email = value; }
-        public string GrupoSanguineo { get => grupoSanguineo; set => grupoSanguineo = value; }
-        public string Factor { get => factor; set => factor = value; }
-        public string Categoria { get => categoria; set => categoria = value; }
-        public bool EnfermedadesCronicas { get => enfermedadesCronicas; set => enfermedadesCronicas = value; }
-        public bool TomaMedicacionPermanente { get => tomaMedicacionPermanente; set => tomaMedicacionPermanente = value; }
-        public DateTime FechaUltimaDonacion { get => fechaUltimaDonacion; set => fechaUltimaDonacion = value; }
-        public string EstadoDonante { get => estadoDonante; set => estadoDonante = value; }
+        private int Dni 
+        { 
+            get => dni; 
+            set => dni = value; 
+        }
+        private string Nombre 
+        {
+            get => nombre; 
+            set => nombre = value;
+        }
+        private string Apellido 
+        { 
+            get => apellido; 
+            set => apellido = value; 
+        }
+        private DateTime FechaNacimiento 
+        { 
+            get => fechaNacimiento; 
+            set => fechaNacimiento = value; 
+        }
+        private string Domicilio 
+        { 
+            get => domicilio; 
+            set => domicilio = value; 
+        }
+        private string Localidad 
+        {
+            get => localidad; 
+            set => localidad = value; 
+        }
+        private int Telefono 
+        { 
+            get => telefono; 
+            set => telefono = value; 
+        }
+        private string Email 
+        { 
+            get => email; 
+            set => email = value; 
+        }
+        private string Email 
+        { 
+            get => email; 
+            set => email = value; 
+        }
+        private string GrupoSanguineo 
+        { 
+            get => grupoSanguineo; 
+            set => grupoSanguineo = value; 
+        }
+        private string Factor 
+        { 
+            get => factor; 
+            set => factor = value; 
+        }
+        private string Categoria 
+        { 
+            get => categoria; 
+            set => categoria = value; 
+        }
+        private bool EnfermedadesCronicas 
+        { 
+            get => enfermedadesCronicas; 
+            set => enfermedadesCronicas = value; 
+        }
+        private bool TomaMedicacionPermanente 
+        { 
+            get => tomaMedicacionPermanente; 
+            set => tomaMedicacionPermanente = value; 
+        }
+        private DateTime FechaUltimaDonacion 
+        { 
+            get => fechaUltimaDonacion; 
+            set => fechaUltimaDonacion = value; 
+        }
+        private string EstadoDonante 
+        { 
+            get => estadoDonante; 
+            set => estadoDonante = value; 
+        }
 
         public List<Asociado> socios = new List<Asociado>();
+        
         public List<Asociado> donantes = new List<Asociado>();
 
         public void preCargaSocios()
         {
 
             Asociado Socio1 = new Asociado();
+            
             Socio1.Dni = 32444565;
+            
             Socio1.Nombre = "Carlos";
+            
             Socio1.Apellido = "Gomez";
+            
             Socio1.FechaNacimiento = new DateTime(1985, 10, 19);
+            
             Socio1.Domicilio = "Jose Hernandez 2044";
+            
             Socio1.Localidad = "San Fernando";
+            
             Socio1.Telefono = 15659588;
+           
             Socio1.Email = "cachogomez@gmail.com";
+            
             Socio1.GrupoSanguineo = "A";
+            
             Socio1.Factor = "negativo";
+            
             Socio1.EnfermedadesCronicas = false;
+            
             Socio1.TomaMedicacionPermanente = false;
+            
             Socio1.fechaUltimaDonacion = new DateTime(2021, 9, 15);
+            
             Socio1.Categoria = asignarCategoria(Socio1.FechaNacimiento, Socio1.TomaMedicacionPermanente, Socio1.EnfermedadesCronicas);
+            
             Socio1.EstadoDonante = aptoParaDonar(Socio1.fechaUltimaDonacion);
 
 
             Asociado Socio2 = new Asociado();
+            
             Socio2.Dni = 46546546;
+            
             Socio2.Nombre = "Jorge";
+            
             Socio2.Apellido = "Perez";
+            
             Socio2.FechaNacimiento = new DateTime(1995, 9, 11);
+            
             Socio2.Domicilio = "Honduras 943";
+            
             Socio2.Localidad = "San Francisco";
+            
             Socio2.Telefono = 15898774;
+            
             Socio2.Email = "perecitojorge@gmail.com";
+            
             Socio2.GrupoSanguineo = "B";
+            
             Socio2.Factor = "negativo";
+            
             Socio2.EnfermedadesCronicas = false;
+            
             Socio2.TomaMedicacionPermanente = false;
+            
             Socio2.fechaUltimaDonacion = new DateTime(2021, 8, 5);
+            
             Socio2.Categoria = asignarCategoria(Socio2.FechaNacimiento, Socio2.TomaMedicacionPermanente, Socio2.EnfermedadesCronicas);
+            
             Socio2.EstadoDonante = aptoParaDonar(Socio2.fechaUltimaDonacion);
 
 
@@ -183,6 +279,7 @@ namespace TP___Circulo_de_Sangre.Clases
                 fechaUltimaDonacion = Convert.ToDateTime(Console.ReadLine());
 
                 categoria = asignarCategoria(fechaNacimiento, tomaMedicacionPermanente, enfermedadesCronicas);
+                
                 estadoDonante = aptoParaDonar(fechaUltimaDonacion);
 
 
