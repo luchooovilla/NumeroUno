@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TP___Circulo_de_Sangre.Clases
+namespace TP___Circulo_de_Sangre
 {
     public class Cuota
     {
