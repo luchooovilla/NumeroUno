@@ -1,0 +1,10 @@
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.csproj.AssemblyReference.cache
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.Interfaz.frmInicioSesion.resources
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.Interfaz.frmMenuInicio.resources
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.Interfaz.frmRegistroNuevoUsuario.resources
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.Interfaz.frmRegistroRECLAMO.resources
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.csproj.GenerateResource.cache
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.AssemblyInfo.cs
+C:\Users\lucia\source\repos\UltimoPobreTitoVillaFinal\UltimoPobreTitoVillaFinal\obj\Debug\net6.0-windows\UltimoPobreTitoVillaFinal.csproj.CoreCompileInputs.cache
