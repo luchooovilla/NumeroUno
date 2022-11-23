@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,9 +7,9 @@ using FluentValidation;
 
 namespace CirculoSangre
 {
-    internal class ValidacionAsociado: AbstractValidator<Asociado>
+    internal class ValidacionDonaciobn: AbstractValidator<Donacion>
     {
-        public ValidacionAsociado()
+        public ValidacionDonacion()
         {
             RuleFor(n => n.dni).NotEmpty().MaximumLength(8);
             
@@ -25,21 +25,11 @@ namespace CirculoSangre
             
             RuleFor(n => n.telefono).NotEmpty();
             
-            RuleFor(n => n.email).NotEmpty();
+            RuleFor(n => n.fechaUltimaDonacion).NotEmpty();
             
-            RuleFor(n => n.GrupoSanguineo).NotEmpty().Must(validarGrupoSanguineo);
-        }
-        private bool validarGrupoSanguineo(string Grupo)
-        {
-            if (Grupo == "A" || Grupo == "B" || Grupo == "AB" || Grupo == "0") return true;
+            RuleFor(n => n.fechaDonacion).NotEmpty();
             
-            return false;
-        }
-        private bool validarFechaNacimiento(DateTime Fecha)
-        {
-            if (Fecha.Year > 1922 && Fecha.Year < DateTime.Now.Year) return true;
-            
-            return false;
+            RuleFor(n => n.descripcion).NotEmpty();
         }
     }
 }

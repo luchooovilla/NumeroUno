@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TP___Circulo_de_Sangre.Clases
+namespace TP___Circulo_de_Sangre
 {
     public class Menu
     {
 
-        public void menuPrincipal(Asociado socio)
+        public void menuPrincipal(Asociado asociado)
         {
             int seleccion = 0;
 
@@ -17,9 +17,9 @@ namespace TP___Circulo_de_Sangre.Clases
             {
                 Console.WriteLine("Menu de Club de Sangre");
                 Console.WriteLine();
-                Console.WriteLine("1. Dar de Alta nuevo socio");
-                Console.WriteLine("2. Mostrar lista de socios");
-                Console.WriteLine("3. Mostrar lista de socios disponibles para donar sangre");
+                Console.WriteLine("1. Dar de Alta nuevo asociado");
+                Console.WriteLine("2. Mostrar lista de asociados");
+                Console.WriteLine("3. Mostrar lista de asociados disponibles para donar sangre");
                 Console.WriteLine("4. Cargar donacion de sangre");
                 Console.WriteLine("5. Cargar solicitud de donantes de sangre");
                 Console.WriteLine("6. Exit");
@@ -30,31 +30,32 @@ namespace TP___Circulo_de_Sangre.Clases
                 switch (seleccion)
                 {
                     case 1:
-                        socio.registrarNuevoSocio();
+                        asociado.registrarNuevoasociado();
                         break;
 
                     case 2:
-                        socio.mostrarSocios();
+                        asociado.mostrarAsociados();
                         break;
 
                     case 3:
-                        socio.mostrarListaDonantes();
+                        asociado.mostrarListaDonantes();
                         break;
 
 
                     case 4:
-                        socio.actualizarFechaDonacion();
+                        asociado.actualizarFechaDonacion();
                         break;
 
                     case 5:
                         solicitudesDonaciones.cargarSolicitudDonantes();
-                        //solicitudesDonaciones.notificarDonantes();
-                        //solicitudesDonaciones.asignarDonantes();
+                        break;
+                        
+                    case 6:
+                        exit();
                         break;
 
                     default:
                         break;
-
 
                 }
 

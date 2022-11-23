@@ -4,22 +4,48 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TP___Circulo_de_Sangre.Clases
+namespace TP___Circulo_de_Sangre
 {
     public class Donacion
     {
+        int dni;
         DateTime fechaDonacion;
+        DateTime fechaUltimaDonacion;
         string apellido;
         string nombre;
-        int dni;
+        string descripcion;
 
-        //Socio socio = new Socio();
-
-        public DateTime FechaDonacion { get => fechaDonacion; set => fechaDonacion = value; }
-        public string Apellido { get => apellido; set => apellido = value; }
-        public string Nombre { get => nombre; set => nombre = value; }
-        public int Dni { get => dni; set => dni = value; }
-
+        private int Dni 
+        {
+            get => dni; 
+            set => dni = value; 
+        }
+        private DateTime FechaDonacion 
+        { 
+            get => fechaDonacion; 
+            set => fechaDonacion = value; 
+        }
+        private DateTime FechaUltimaDonacion 
+        { 
+            get => fechaUltimaDonacion; 
+            set => fechaUltimaDonacion = value; 
+        }
+        private string Apellido 
+        { 
+            get => apellido; 
+            set => apellido = value; 
+        }
+        private string Nombre 
+        { 
+            get => nombre; 
+            set => nombre = value; 
+        }
+        private string descripcion
+        {
+            get => descripcion; 
+            set => descripcion = value;
+        }
+        
         List<Donacion> donacion = new List<Donacion>();
 
         public void preCargaDonacion()
@@ -34,10 +60,6 @@ namespace TP___Circulo_de_Sangre.Clases
             donacion.Add(donacion1);
 
         }
-
-
-
-
 
     }
 }
