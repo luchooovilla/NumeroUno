@@ -1,0 +1,1 @@
+Al diagrama de Bases de datos lo tuve que hacer en SQL server, ya que no sabìa como hacerlo dentro de Visual Studio.

@@ -1,0 +1,80 @@
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.exe
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.deps.json
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.runtimeconfig.json
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.dll
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.pdb
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.HistorialDeReportes.resources
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.IniciarSesion.resources
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.Inicio.resources
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.InicioUsuario.resources
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.RegistrarUsuario.resources
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.ReportarIncidente.resources
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.dll
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\refint\TP PobreTITO.dll
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.pdb
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Escritorio\Guillermo\DSI2022\TP PobreTITO\TP PobreTITO\obj\Debug\net6.0-windows\ref\TP PobreTITO.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.AssemblyReference.cache
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.HistorialDeReportes.resources
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.IniciarSesion.resources
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.Inicio.resources
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.InicioUsuario.resources
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.RegistrarUsuario.resources
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.ReportarIncidente.resources
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.GenerateResource.cache
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.AssemblyInfoInputs.cache
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.AssemblyInfo.cs
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.CoreCompileInputs.cache
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\refint\TP PobreTITO.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.pdb
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.exe
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.deps.json
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.runtimeconfig.json
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.pdb
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.CopyComplete
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.genruntimeconfig.cache
+C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\obj\Debug\net6.0-windows\ref\TP PobreTITO.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.exe
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.deps.json
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.runtimeconfig.json
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\TP PobreTITO.pdb
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.AssemblyReference.cache
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.HistorialDeReportes.resources
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.IniciarSesion.resources
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.Inicio.resources
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.InicioUsuario.resources
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.RegistrarUsuario.resources
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP_PobreTITO.ReportarIncidente.resources
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.GenerateResource.cache
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.csproj.CopyComplete
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\refint\TP PobreTITO.dll
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.pdb
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\TP PobreTITO.genruntimeconfig.cache
+C:\Users\lucia\OneDrive\Escritorio\PobreTitoGUILLEEE\TP PobreTITO\obj\Debug\net6.0-windows\ref\TP PobreTITO.dll
